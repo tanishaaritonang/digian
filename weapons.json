@@ -1,0 +1,41 @@
+[
+    {
+        "name": "xiao",
+        "weapons": [
+            {
+                "name": "Primordial Jade Winged-Spear",
+                "image": "https://paimon.moe/images/weapons/primordial_jade_winged-spear.png"
+            },
+            {
+                "name": "Staff of Homa",
+                "image": "https://paimon.moe/images/weapons/staff_of_homa.png"
+            },
+            {
+                "name": "Vortex Vanquisher",
+                "image": "https://paimon.moe/images/weapons/vortex_vanquisher.png"
+            }
+        ]
+    },
+    {
+        "name": "nahida",
+        "weapons": [
+           { "name" :"A Thousand Floating Dream",
+            "image" : "https://paimon.moe/images/weapons/a_thousand_floating_dreams.png"},
+            { "name" :"Kagura's Verity",
+            "image" : "https://paimon.moe/images/weapons/kaguras_verity.png"},
+            { "name" :" The Widsith",
+            "image" : "https://paimon.moe/images/weapons/the_widsith.png"}
+        ]
+    },
+    {
+        "name": "fischl",
+        "weapons": [
+            { "name" :"Polar Star",
+            "image" : "https://paimon.moe/images/weapons/polar_star.png"},
+            { "name" :"Aqua Simulacra",
+            "image" : "https://paimon.moe/images/weapons/aqua_simulacra.png"},
+            { "name" :" Skyward Harp",
+            "image" : "https://paimon.moe/images/weapons/skyward_harp.png"}
+        ]
+    }
+]
